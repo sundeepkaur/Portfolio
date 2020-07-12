@@ -1,4 +1,4 @@
-##My Portfolio
+#My Portfolio
 
 	After graduating from PG diploma in April 2020 created my portfolio website using React.js JavaScript library and hosted on web using free web hosting service Heroku.
 
